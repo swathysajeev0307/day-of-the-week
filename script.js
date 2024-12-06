@@ -1,3 +1,4 @@
+// COPYRIGHT (C) 2024 SWATHYUMOL SAJEEV | GNU General Public License v3.0
 document.addEventListener("DOMContentLoaded", ()=>{
 
     const days = [
